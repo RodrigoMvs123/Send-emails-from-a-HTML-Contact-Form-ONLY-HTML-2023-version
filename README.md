@@ -1,4 +1,5 @@
-# Send-emails-from-a-HTML-Contact-Form-ONLY-HTML-2023-version
+
+## Send-emails-from-a-HTML-Contact-Form-ONLY-HTML-2023-version
 
 https://www.youtube.com/watch?v=2aycGxk_BHE 
 
@@ -6,6 +7,7 @@ https://raw.githubusercontent.com/RodrigoMvs123/Send-emails-from-a-HTML-Contact-
 
 https://github.com/RodrigoMvs123/Send-emails-from-a-HTML-Contact-Form-ONLY-HTML-2023-version/blame/main/README.md
 
+```html
 Visual Studio Code
 Explorer
 Open Editors
@@ -35,12 +37,18 @@ index.html
         </form>
     </body>
 </html>
+```
 
-Hostinger UI
+## Hostinger UI
+```
 Account Information
 Hosting
 codersdxb.com
 File manager
+```
+
+## Source Code
+```html
 index.html
 <!DOCTYPE html>
 <html lang="en">
@@ -64,24 +72,35 @@ index.html
         </form>
     </body>
 </html>
+```
 
+```
 Hostinger UI 
 Save
+```
 
 codersdxb.com
+```
 <input type="hidden" name="_captcha"  value="false"> 
 Save
+```
 
+```
 index.html
 Copy Path
 localhost:...
+```
 
-Hostinger UI
+## Hostinger UI
+```
 public_html
 New File
 thankyou.html
 Create
+```
 
+## Source Code
+```html
 Visual Studio Code
 Explorer
 Open Editors
@@ -101,12 +120,17 @@ thankyou.html
     <h1>Thank you !</h1>
 </body>
 </html>
+```
 
-Hostinger UI
+## Hostinger UI
+```
 public_html
 index.html
 thankyou.html
+```
 
+## Source Code
+```html
 Visual Studio Code
 Explorer
 Open Editors
@@ -138,5 +162,6 @@ index.html
         </form>
     </body>
 </html>
+```
 
 
